@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # EliteShop - Full-Stack E-Commerce Application
 
 A modern, production-ready e-commerce web application built with React, TypeScript, and Python Flask.
@@ -164,3 +165,6 @@ The application uses SQLite for development. The database schema is defined in `
 - Docker containerization ready
 
 This application demonstrates a complete e-commerce solution with modern web development practices, clean architecture, and production-ready features.
+=======
+# E-commerce
+>>>>>>> be31770a73ede6aaca13d514fb81f1a14d7c1763
